@@ -1,0 +1,44 @@
+h1{ background-color: aquamarine; 
+border-color: brown; 
+/* border-style: solid;  */
+/* border-width: 2px;  */
+/* border-radius: 5px; */ 
+/* border-top-left-radius: 5px; */ 
+/* border-top: 5px; */ 
+border: solid black 5px; 
+border-radius: 5px; 
+width: 500px; 
+height: 100px;
+} 
+
+.ParaClass1{ background-color: blanchedalmond; 
+    border: solid black 5px; 
+border-radius: 5px; 
+width: 500px; 
+/* padding: 20px; 
+margin: 50px;  */
+} 
+
+.ParaClass2{ background-color: aqua; 
+border: solid black 5px; 
+border-radius: 5px; 
+width: 500px; 
+/* margin: 50px;
+padding: 20px 20px 15px 50px;  */
+
+} 
+
+.ParaClass3{ background-color: blueviolet; 
+border: solid black 5px; 
+border-radius: 5px; 
+width: 500px; 
+
+/* margin: 50px;
+padding: 40px 20px;  */
+
+} 
+
+*{
+    margin: 0px; 
+    padding: 0px; 
+}
