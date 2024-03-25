@@ -1,0 +1,13 @@
+.container{
+    background-color: beige; 
+    border: solid 5px;
+}
+.box{
+    height: 200px;
+    width: 200px; 
+    border: solid brown 3px;
+} 
+#box1{ background-color: aqua;} 
+#box2{ background-color: blue;} 
+#box3{ background-color: orange;}
+#box4{ background-color: brown;} 
